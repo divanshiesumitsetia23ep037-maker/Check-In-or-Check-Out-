@@ -28,9 +28,10 @@ https://github.com/user-attachments/assets/4282c935-69fb-44b8-9242-5efe4242921f
 * **Frontline Strength:** Despite ongoing challenges with the physical product, cabin crew service continues to stand out as a brand differentiator, achieving a relatively strong score of 3.3.
 
 ## Strategic Recommendations
-* **Modernize IFE:** Prioritize fleet-wide upgrades for In-Flight Entertainment (IFE) systems to address the lowest-rated metric.
-* **Economy Refurbishment:** Focus on seat ergonomics and legroom optimization to improve perceived value for money.
-* **Route-Level Monitoring:** Investigate regions with consistently lower ratings to implement targeted operational interventions.
+* **Next-Generation IFE Upgrade:** Prioritize comprehensive hardware and UI/UX enhancements for In-Flight Entertainment systems across the long-haul fleet. Introduce capacitive touchscreens and “Bring Your Own Device” (BYOD) streaming options to quickly elevate the lowest-rated passenger touchpoint while simultaneously reducing long-term maintenance costs.
+* **“Gold Standard” Cabin Refurbishment:** Improve the low Value for Money score (2.8/5.0) by benchmarking seat ergonomics against the high-performing Boeing 747-400 (4.7 rating). Integrate slimline seatbacks and four-way adjustable headrests to enhance perceived legroom and comfort without reducing seat density.
+* **Route-Specific Operational Audits:** Leverage the Tableau “Heat Map” to pinpoint regions with consistently lower satisfaction levels. Instead of implementing fleet-wide adjustments, introduce targeted solutions—such as regionally customized catering to address the 2.4/5.0 Food rating, or focused ground-staff training at hubs exhibiting service gaps.
+* **Dynamic Performance Monitoring:** Establish an automated system where any route that falls below a 3.0 average rating for two consecutive weeks automatically triggers a structured service review. This ensures data-driven responsiveness while safeguarding British Airways’ premium brand standards.
 
 ## Tools & Technologies Used
 * **Data Visualization:** Tableau
